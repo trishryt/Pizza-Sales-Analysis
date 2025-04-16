@@ -43,11 +43,6 @@ Created a dynamic dashboard with:
 ## 🖼️ Dashboard Preview  
 ![Pizza Sales Dashboard](./pizza%20sales%20dashboard.png)
 
-## 📎 Project Files  
-- [📊 Power BI Dashboard (.pbix)](https://drive.google.com/your-pbix-link)  
-- [📄 SQL Query for Cleaning & Analysis](./SQL%20Query%20Pizza%20Sales.sql)  
-- [📁 Source Dataset CSV](./pizza_sales.csv)
-
 ## ✅ Result  
 This project showcases my ability to manage an end-to-end data pipeline: from cleaning raw data in SQL, performing analytical queries, to building a visual storytelling dashboard using Power BI.
 
